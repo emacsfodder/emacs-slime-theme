@@ -1,14 +1,4 @@
 
-# emacs-slime-theme
+# Emacs slime theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![]https://github.com/emacsfodder/emacs-slime-theme/raw/master/slime-theme.png)
